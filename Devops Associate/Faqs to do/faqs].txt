@@ -1,0 +1,1 @@
+Amazon Simple Queue Service || Amazon DynamoDB || Amazon ElastiCache || Amazon Kinesis || AWS Lambda || Amazon API Gateway || AWS Elastic Beanstalk || AWS Identity and Access Management || AWS Key Management Service

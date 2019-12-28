@@ -1,0 +1,31 @@
+
+29-12-2019:
+
+AWS Basics, Fundamentals and overview.
+
+30-12-2019:
+
+EC2, ELBs, Ports, EBS, EFS
+
+31-12-2019:
+S3, CDN
+
+1-1-2020:
+RDS, DynamoDB
+
+1-2-2020:
+IAM, VPC, NAT & BASTION HOSTS, IGW, VGW, NGW.
+
+1-3-2020:
+Route53, 
+
+1-4-2020:
+SQS, SNS, SES, APIGATEWAY
+
+1-5-2020:
+CloudFormation, ElasticBeanstalk
+
+1-6-2020:
+AWS Well-Architected Framework
+
+We will cover maximum Practicals that we can.
